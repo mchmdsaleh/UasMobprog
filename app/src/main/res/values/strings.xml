@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">UAS</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="signup">Signup</string>
+    <string name="fullname">Fullname</string>
+    <string name="email">Email</string>
+    <string name="loginhere">Login Here</string>
+    <string name="signuphere">Haven\'t Account? Register here</string>
+    <string name="welcome">Welcome to Application!</string>
+    <string name="logout">Logout</string>
+</resources>
